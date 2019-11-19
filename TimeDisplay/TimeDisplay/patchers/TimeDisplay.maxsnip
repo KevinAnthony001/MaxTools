@@ -1,0 +1,45 @@
+{
+	"patcher" : 	{
+		"boxes" : [ 			{
+				"box" : 				{
+					"maxclass" : "bpatcher",
+					"viewvisibility" : 1,
+					"offset" : [ 0.0, 0.0 ],
+					"lockeddragscroll" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"bgmode" : 0,
+					"border" : 0,
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"name" : "TimeDisplay.maxpat",
+					"outlettype" : [ "" ],
+					"id" : "obj-183",
+					"patching_rect" : [ 10.0, 10.0, 64.601305186748505, 20.156859338283539 ]
+				}
+
+			}
+ ],
+		"appversion" : 		{
+			"major" : 8,
+			"minor" : 1,
+			"revision" : 1,
+			"architecture" : "x64",
+			"modernui" : 1
+		}
+,
+		"classnamespace" : "box",
+		"description" : "64 x 20, containing 1 object",
+		"tags" : "",
+		"snippetinfo" : 		{
+			"name" : "TimeDisplay",
+			"objects" : "jpatcher",
+			"tags" : "",
+			"description" : "64 x 20, containing 1 object",
+			"image" : "iVBORw0KGgoAAAANSUhEUgAAAEEAAAAUCAYAAADStFABAAAABHNCSVQICAgIfAhkiAAABV5JREFUWIXtl3lsVFUUxn8zb2Y605mhG7S0FFpoS6UNS5EgYIGQKiCCxLC0EIxIEJAgqBgQUyBikM2EBklFoiCrkLApmEANUdtKgNZqC7SUFloK3QaGaTtLZ33jH0OnTFpkqiQa7UneH++8c+/97nfP+c67ErH6HTf/UzNJR2AUJiD9p4H8G6ybBLpJALpIgtniwOUSO/jdbjdGk/2J40XRjcns6MqSjzW73dUpPlHsusTJ/AnS6a0szrxEoFKgUW9j4ew4MqbGAnD+QgObdl0jKlzFvQdWsjKfJXFAUIc59p24xcFTt+jdS4XR7GTr6hQG9u8BwLz3fqHittEbm/FyDO8uGPRYPNv3lHGlvIk9W0YDUHXHxMIPLxIepqTF5GDOtFjmTe//dEn4aEcJ09KiWTAzjqYWO5Pmnyd1RDhhwQpWbiri9O7x9I1Ucza3jjWfFnMie5zP+LsNFnbsu85Ph15Eq5Fz9PtqNmZfZd+2MQD8eu0BxaenoFAIT8RypdzAkTPVJCcEe31L1l5i8ZwEZk+JwW538erSXJITgkhJCvWLBL/KIbdAx+SxkQAE91AwcmhP8gp0FJToGdBXQ99INQCTx0Vx9UYThmYbtQ0Wxsw6h6XVSXTvQPKPTkSrkQPgdoMglQBws8ZIbB81dxss5F5uxGhqL5dD31WxYkOBD5bFmZdZv3yI993pFKm8beKlcVEAKBQCI4eE8fOlRr8IAD8ywWR2YGl10TMkwOsLCw5Ap7cil0sJC1b4xIf0kKPTW4kKV7EoIx65zLNZlVJGXaOF7EM3yMlvYP82TyqXVjZTf8/K8g2FyOVSqu6aObZzLPExWoYNCqFXqNI79/qsYj5Ykuy7AZmUQJVAbaOFZzSeMqxtbMXl8l8bnpgJbTojk7WHCoIEUXTjconIBEkHUKIIWo2C+TPikMvbU9ztdpOSFEpCjIZdhysAiAhTsvz1RM58OYGTn49n7rQY1m4vBiA5IZiJqZ4MzCvQUadr5ZW06A4Y06fEsHJTET/k1/PZ/nKKrxv8JsAvEpQKT4jtETW22V2olAIqpQyb3bdb2OwiKmXntd2nt5oZk/vx1ebR5OTXc6vGyMihPVkwM84bM/2FaMputviMczpFVm0pYlhSCMfP1lBQoqdRb+Vsbh0AmcsGM+G5CA5+W4VEAnOmxqBV+yV3gB8kKBQCUREqaurMXt/tWjP9+2qI7aOmpr7dbzQ5MFk8GvColVY2s/NAufddGSCgDpRhsbo4mXOHvAKd91ur1YVa5UuiwykyODGY4jID5/Lq+L3MwH2DjdzLnrovvKJnydwE9m0bw7LXEim72ULCw87zVEgAmJgaydfHbwFQVtnM1RtNPD+8F8kJQTgcIj9ebABgz7GbpI2OQCaTYrY4OHGuBqdTRBMo44tvKqio9pzwyZwapFIJSfFBNNxvZfveMmx2F6LoZveRSqaM94hcRXUL+YU6VEoZuzeO8j5vpseTHB/EJ++nALDrcAXHztYAUFxm4LdSA2mjI/wmwa+cWbUoiRlLc0lNz8FscbB5VQoatUfpt64ezvKPCwmQS1EpBfY+7N36JjvrskqYNDaSflFq1r09mIwV+WjVcpwuN3s2j0IqlbAoPZ7SimbGzDqHIEgZGKsle8NIAPIL73Gh6B6pI8J9QcukBCjaz2/NW8m8sfoiB05VYTI7yMocgVbjK9h/ZpKu3CL1BitatbxDPxdFN/omm4+Sd2Z2u4smo4NeoQFIJL6C2tYa29poV60NQ2iQAkHw70e47Rbpv3oAYSGdb1IqlTyRAPDoS3hY56L5VzffVQydjv1bK/9HrJsEukkAukkA4A+0RwDKZrI8VwAAAABJRU5ErkJggg=="
+		}
+
+	}
+
+}
